@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-doublylist\phase1-doublylist\obj\Debug\phase1-doublylist.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-doublylist\phase1-doublylist\obj\Debug\phase1-doublylist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-doublylist\phase1-doublylist\obj\Debug\phase1-doublylist.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-doublylist\phase1-doublylist\bin\Debug\phase1-doublylist.exe.config
+C:\Users\Admin\source\repos\phase1-doublylist\phase1-doublylist\bin\Debug\phase1-doublylist.exe
+C:\Users\Admin\source\repos\phase1-doublylist\phase1-doublylist\bin\Debug\phase1-doublylist.pdb
+C:\Users\Admin\source\repos\phase1-doublylist\phase1-doublylist\obj\Debug\phase1-doublylist.exe
+C:\Users\Admin\source\repos\phase1-doublylist\phase1-doublylist\obj\Debug\phase1-doublylist.pdb
